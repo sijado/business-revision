@@ -1,0 +1,17 @@
+{
+  "name": "Oliver's Revision",
+  "short_name": "Revision",
+  "description": "Offline AQA A-level Business revision: notes, flashcards, quizzes and exam questions.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090C12",
+  "theme_color": "#090C12",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
